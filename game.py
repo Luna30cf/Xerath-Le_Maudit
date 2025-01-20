@@ -66,7 +66,7 @@ class Game:
         for direction in directions:
             frames = []
             for i in range(4):  # Supposons 4 frames par direction
-                path = f"Python-Karl/sprites/{direction}/{direction}_{i}.png"
+                path = f"Assets/sprites/{direction}/{direction}_{i}.png"
                 try:
                     image = pygame.image.load(path).convert_alpha()
                     frames.append(image)

@@ -1,9 +1,6 @@
 import json
 import map as m
 
-import json
-import map as m
-
 class Teleporter:
     def __init__(self, json_file):
         """

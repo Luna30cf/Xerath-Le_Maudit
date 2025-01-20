@@ -3,7 +3,6 @@ import sys
 import map as m
 import player as p
 import teleport as t
-import json
 
 class Game:
     def __init__(self, screen_width=1280, screen_height=720):
@@ -24,7 +23,7 @@ class Game:
 
 
         # Déterminer un spawn valide
-        spawn_x, spawn_y = self.find_valid_spawn(22, 58)
+        spawn_x, spawn_y = self.find_valid_spawn(81, 82)
         print(f"[DEBUG] Spawn validé : ({spawn_x},{spawn_y})")
 
         # Charger les animations du joueur

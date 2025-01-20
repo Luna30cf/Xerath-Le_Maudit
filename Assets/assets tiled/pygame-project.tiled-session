@@ -25,7 +25,7 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 480,
+                "x": 404,
                 "y": 262.6666666666667
             }
         },
@@ -108,7 +108,7 @@
             "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 360,
+                "x": 322,
                 "y": 211.66666666666666
             }
         },
@@ -271,10 +271,10 @@
         },
         "mapv2.tmx": {
             "scale": 2,
-            "selectedLayer": 19,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1136,
-                "y": 1233.5
+                "x": 1421,
+                "y": 1169
             }
         },
         "market_assets.tsx": {

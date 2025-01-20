@@ -1,0 +1,59 @@
+{
+    "zones": [
+        {
+            "coordinates": [[71, 12], [71, 13], [72, 12], [72, 13]],
+            "target_map": "Assets/assets tiled/grotte.tmx",
+            "spawn_position": [19, 28]
+        },
+        {
+            "coordinates": [[23, 12]],  
+            "target_map": "Assets/assets tiled/grotte.tmx",
+            "spawn_position": [1, 8]
+        },
+        {
+            "coordinates": [[1, 7]],  
+            "target_map": "Assets/assets tiled/grotte.tmx",
+            "spawn_position": [23, 13]
+        },
+        {
+            "coordinates": [[19, 31]],  
+            "target_map": "Assets/assets tiled/mapv2.tmx",
+            "spawn_position": [22, 55]
+        },
+        {
+            "coordinates": [[30, 60]],  
+            "target_map": "Assets/assets tiled/mapv2.tmx",
+            "spawn_position": [73, 22]
+        },
+        {
+            "coordinates": [[22, 56]],  
+            "target_map": "Assets/assets tiled/BigHouse.tmx",
+            "spawn_position": [15, 17]
+        },
+        {
+            "coordinates": [[81, 79]],  
+            "target_map": "Assets/assets tiled/LittleHouse.tmx",
+            "spawn_position": [13, 14]
+        },
+        {
+            "coordinates": [[67, 84]],
+            "target_map": "Assets/assets tiled/firstHouse.tmx",
+            "spawn_position": [14, 12]
+        },
+        {
+            "coordinates": [[15, 18], [16, 18]],  
+            "target_map": "Assets/assets tiled/mapv2.tmx",
+            "spawn_position": [22, 58]
+        },
+        {
+            "coordinates": [[13, 16]],  
+            "target_map": "Assets/assets tiled/mapv2.tmx",
+            "spawn_position": [81, 80]
+        },
+        {
+            "coordinates": [[14, 14]],  
+            "target_map": "Assets/assets tiled/mapv2.tmx",
+            "spawn_position": [65, 87]
+        }
+    ]
+}
